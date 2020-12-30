@@ -7,6 +7,7 @@
 # Programming Languages
 * C#
 * Javascript
+* Python
 * HTML, CSS
 * GDScript
 
