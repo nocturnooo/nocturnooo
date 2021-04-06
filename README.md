@@ -2,7 +2,6 @@
 
 :man_technologist: Software Developer<br>
 :video_game: Game Developer<br>
-:earth_africa: Web Developer (kind of)<br>
 
 # Programming Languages
 * C#
