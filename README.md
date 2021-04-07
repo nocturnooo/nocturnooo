@@ -3,9 +3,11 @@
 :man_technologist: Software Developer<br>
 :video_game: Game Developer<br>
 
-# Programming Languages
+# Skills
 * C#
+* Unity
 * Javascript
+* Node.js
 * Python
 * HTML, CSS
 * GDScript
