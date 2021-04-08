@@ -5,9 +5,10 @@
 
 # Skills
 * C#
-* Unity
+* Unity Game Engine
 * Javascript
 * Node.js
 * Python
 * HTML, CSS
+* Godot Game Engine
 * GDScript
