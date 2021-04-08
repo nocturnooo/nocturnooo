@@ -6,7 +6,7 @@
 # Skills
 * C#
 * Unity Game Engine
-* Javascript
+* JavaScript
 * Node.js
 * Python
 * HTML, CSS
