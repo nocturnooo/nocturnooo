@@ -4,7 +4,7 @@
 :video_game: Game Developer<br>
 
 # Skills
-* C#
+* C# 👑
 * Unity Game Engine
 * JavaScript
 * Node.js
