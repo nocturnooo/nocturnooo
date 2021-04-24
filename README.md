@@ -1,9 +1,8 @@
-<h1 align="center">nocturno</h1>
+<h1 align="center">nocturno 👋</h1>
 
-:man_technologist: Software Developer<br>
-:video_game: Game Developer<br>
+#Hello! I'm nocturno, a young programmer from Romania, I mostly do software & game development!
 
-# Skills
+# 📀 Technologies I know 
 * C# 👑
 * Unity Game Engine
 * JavaScript
