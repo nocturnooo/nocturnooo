@@ -1,6 +1,5 @@
-<h1 align="center">nocturno 👋</h1>
-
-#Hello! I'm nocturno, a young programmer from Romania, I mostly do software & game development!
+# nocturno 👋
+Hello! I'm nocturno, a young programmer from Romania, I mostly do software & game development!
 
 # 📀 Technologies I know 
 * C# 👑
