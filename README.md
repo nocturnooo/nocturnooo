@@ -10,3 +10,4 @@ Hello! I'm nocturno, a young programmer from Romania, I mostly do software & gam
 * HTML, CSS
 * Godot Game Engine
 * GDScript
+* C++
