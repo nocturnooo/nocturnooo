@@ -1,5 +1,5 @@
 # nocturno 👋
-<img align="center" src="![Stats](https://github-readme-stats.vercel.app/api?username=nocturnodev&show_icons=true&theme=onedark)" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nocturnodev&show_icons=true&theme=onedark" />
 Hello! I'm nocturno, a young programmer from Romania, I mostly do software & game development!
 
 ## 📀 Technologies I know 
